@@ -2,6 +2,16 @@
 
 ## Kryptering
 ### Kriterier for kryptering  
+
+![Skema fra systime](https://github.com/user-attachments/assets/3e3f2bb2-bf0a-4cac-98db-352eb7a46764)
+
+[Link til kilde på systime.dk](https://informatik.systime.dk/?id=876)
+
+* Fortrolighed - Kun dem vi ønsker kan læse beskeden.
+* Dataintegritet - Ingen kan ændre min besked.
+* Uafviselighed - Vi kan være sikre på at afsenderen er den den siger den er. 
+* Autenticitet - Vi kan være sikre på at beskeden er uændret
+  
 Sikkerhed   
 - Ingen kan ændre min besked. Privathed   
 - Ingen andre end den man ønsker kan læse beskederne. Verificérbarhed
@@ -29,7 +39,8 @@ Vi har tegnet i 3D i det skønne program onshape, som ALDRIG crasher (just trust
 Programmeringen foregik i p5.js, hvilket basically er Javascript.  
 Top notch kode: https://editor.p5js.org/raminabhani3/sketches
 
+### Vektorer
+LINK PENDING...
+
 ## Arduino
-
-
-![Screenshot 2024-11-12 141428](https://github.com/user-attachments/assets/fcabe8bc-609d-4f43-9f46-5dda40b8128d)
+Vi er gået i gang med arduino, det var lækkert! Jeg fik en blink sketch op og køre! Her er et billede af den... Man kan ikke se den blinke på billedet...
