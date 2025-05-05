@@ -260,3 +260,24 @@ void loop() {
   delay(1000);
 }
 ```
+
+## Innovation
+### De 4 p'er
+
+<img src="https://github.com/user-attachments/assets/e243f2a3-9345-4252-9b40-1ecd373160c5" width="600" height="500">
+
+#### Produkt
+Her har vi fokus på ændringen af et produkt.
+Et eksempel er vores føromtalte smartphone. De enkelte dele, såsom gps, telefon og spil, findes i forvejen, men samlet i en smartphone er der tale om et andet produkt.
+
+#### Proces
+Her er der fokus på ændringen af en proces i en virksomhed.
+Et eksempel er firmaet ChiliHouse. De har ændret deres arbejdsprocesser, fordi handlen ikke længere foregår i en fysisk butikker, men på nettet.
+
+#### Position
+Her er fokus på ændringen af den position (kontekst) it-systemet anvendes i set fra brugerens/kundens synsvinkel.
+Et eksempel er is. Her er fokus på ændringen fra, at is er slik til børn, til at is er en luksusspise for voksne.
+
+#### Paradigme
+Her er fokus på ændringen af den grundlæggende selvforståelse i en virksomhed.
+Et eksempel er firmaet IBM. Firmaet startede som producent af hardware, men i dag sælger de i højere grad software og konsulentydelser.
